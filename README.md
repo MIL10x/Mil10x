@@ -1,4 +1,4 @@
-# Hi there,I'm Mil10 👋
+# Hi there,I'm Milton👋
 ![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg)
 
 
