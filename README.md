@@ -1,4 +1,3 @@
-![Uploading BANNER.jpg…]()
 ## Hi there,I'm Mil10 👋
 
 ![programmer](https://github.com/user-attachments/assets/f61ae8a8-ea31-4bb7-9f3c-f20a05132235)
