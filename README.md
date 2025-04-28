@@ -16,6 +16,8 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com ,linkedin : https://www.linkedin.com/in/me/ }
 
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="200" height="200">
+
 </br>
 
 ## Code I Use
