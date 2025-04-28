@@ -21,7 +21,7 @@ I specialize in building user-friendly applications and constantly aim to improv
 </br>
 
 <img width="40" height="40"  src="https://img.icons8.com/color/100/html-5--v1.png" alt="html-5--v1"/>
-<img width="40" height="40" align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo"/>
+<img width="40" height="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo"/>
 <img width="40" height="40" align="left" src="https://img.icons8.com/color/100/javascript--v1.png" alt="javascript--v1"/>
 <img width="40" height="40" align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
 <img width="40" height="40" align="left" src="https://img.icons8.com/color/100/nodejs.png" alt="nodejs"/>
@@ -31,6 +31,6 @@ I specialize in building user-friendly applications and constantly aim to improv
 <img width="40" height="40" src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="40" height="40" src="https://img.icons8.com/color/100/mysql-logo.png" alt="mysql-logo"/>
 
-
+</br>
 
 [![Mil10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mil10x&bg_color=000000&color=ffffff&line=1c61ba&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
