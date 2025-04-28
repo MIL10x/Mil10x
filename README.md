@@ -33,14 +33,26 @@ I specialize in building user-friendly applications and constantly aim to improv
 ## WorkSpace Spec
 <img width="200" height="40" src="https://img.shields.io/badge/AMD-Ryzen_7_7700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="figma--v1"/>    <img width="200" height="40" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="figma--v1"/>  <img width="200" height="40" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="figma--v1"/>
 
-## 💻Live projects
+## 💡Live projects
 CineInfo : https://cineinfoz.netlify.app/
+
+</br>
+
 Ecommerce : https://codebook-ecommerece-platform.netlify.app/
+
+</br>
+
 Flower 3d : https://experimental-website-3d.vercel.app/
 
 ## 💻Portfolio
 Behance : https://www.behance.net/20mss025mlton
+
+</br>
+
 ArtStation : https://www.artstation.com/milton_vinciline_v
+
+</br>
+
 Itch.io : https://milton-vinciline-v.itch.io/
 
 
