@@ -1,7 +1,7 @@
 # Hi there,I'm Milton👋
 ![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg)
 <br>
-##About Me
+## About Me
 <br>
 ![ph1]([https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47fy1k1hyisctszenyxye9hjv8sg7cvb41eqvrss8z&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
