@@ -8,11 +8,11 @@ A developer who enjoys writing clean, efficient code and occasionally talking to
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
 </br>
 - 🔍 Currently searching for the missing semicolon that broke my app
-</br>
+
 - ☕ Always up for tech talk, coffee, or both
-</br>
+
 - 👯 I’m looking to collaborate on MERN Web Application
-</br>
+
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com , linkedin : https://www.linkedin.com/in/me/ }
 
 
