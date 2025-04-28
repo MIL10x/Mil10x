@@ -8,7 +8,6 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 </br>
 
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="150" height="150">
 
 - 🔍 Currently searching for the missing semicolon that broke my app
 
@@ -17,6 +16,8 @@ I specialize in building user-friendly applications and constantly aim to improv
 - 🎨 Working on 3d web application development
 
 - 👯 I’m looking to collaborate on MERN Web Application
+
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="150" height="150">
 
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com ,linkedin : https://www.linkedin.com/in/me/ }
 
