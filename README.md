@@ -2,7 +2,7 @@
 # Hi there,I'm Milton👋
 
 ## About Me
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="180" height="180">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="160" height="160">
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
 
@@ -13,7 +13,7 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - ☕ Always up for tech talk, coffee, or both
 
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="180" height="180">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="160" height="160">
 
 - 🎨 Working on 3d web application development
   
