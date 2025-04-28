@@ -10,6 +10,8 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - ☕ Always up for tech talk, coffee, or both
 
+- 🎨 Working on 3d web application development
+
 - 👯 I’m looking to collaborate on MERN Web Application
 
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com ,linkedin : https://www.linkedin.com/in/me/ }
