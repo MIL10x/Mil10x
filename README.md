@@ -2,11 +2,14 @@
 # Hi there,I'm Milton👋
 
 ## About Me
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="100" height="100">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="150" height="150">
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="100" height="100">
+
 </br>
+
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="150" height="150">
+
 - 🔍 Currently searching for the missing semicolon that broke my app
 
 - ☕ Always up for tech talk, coffee, or both
