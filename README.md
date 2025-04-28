@@ -26,7 +26,7 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 ## Tools I Use
 
-<img width="40" height="40" src="https://img.icons8.com/color/100/figma--v1.png" alt="figma--v1"/>  <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/adobe-photoshop.png" alt="adobe-photoshop"/>  <img width="100" height="100" src="https://img.icons8.com/bubbles/100/blender-3d.png" alt="blender-3d"/>  <img width="100" height="100" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
+<img width="40" height="40" src="https://img.icons8.com/color/100/figma--v1.png" alt="figma--v1"/>  <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/adobe-photoshop.png" alt="adobe-photoshop"/>  <img width="40" height="40" src="https://img.icons8.com/bubbles/100/blender-3d.png" alt="blender-3d"/>  <img width="40" height="40" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 
 
 
