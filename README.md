@@ -58,7 +58,7 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 </br>
 
-## 📈Git Monitor
+## 📈Github Stats 
 
 </br>
 
