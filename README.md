@@ -1,7 +1,7 @@
 # Hi there,I'm Milton👋
 ![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg)
 
-
+---
 
 - 🔭 I’m currently working on Personal Portfolio 
 - 👯 I’m looking to collaborate on MERN Web Application
