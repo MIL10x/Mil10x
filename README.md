@@ -2,7 +2,8 @@
 # Hi there,I'm Milton👋
 
 ## About Me
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="200" height="200">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif"  align="right" width="100" height="100">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="100" height="100">
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
 </br>
@@ -16,7 +17,8 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com ,linkedin : https://www.linkedin.com/in/me/ }
 
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="200" height="200">
+
+
 
 </br>
 
