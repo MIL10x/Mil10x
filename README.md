@@ -3,6 +3,7 @@
 
 ## About Me
 
+![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif)
 
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
