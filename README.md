@@ -14,5 +14,6 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - 📫 Let’s connect = { mail : miltonvinciline08@gmail.com , linkedin : https://www.linkedin.com/in/me/ }
 
+<br>
 
 [![Mil10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mil10x&bg_color=000000&color=ffffff&line=1c61ba&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
