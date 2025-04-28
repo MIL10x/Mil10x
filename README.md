@@ -3,7 +3,7 @@
 </br>
 ## About Me
 </br>
-![ph1](https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47fy1k1hyisctszenyxye9hjv8sg7cvb41eqvrss8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
 </br>
