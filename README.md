@@ -3,6 +3,12 @@
 </br>
 ## About Me
 </br>
+![download](https://github.com/user-attachments/assets/4dde7a68-728e-4b30-97a3-95a6b91c6f93)
+
+
+
+
+
 ![ph1](https://giphy.com/embed/USV0ym3bVWQJJmNu3N)
 <iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
