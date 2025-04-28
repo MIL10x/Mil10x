@@ -27,9 +27,9 @@ I specialize in building user-friendly applications and constantly aim to improv
 <img width="40" height="40" align="left" src="https://img.icons8.com/color/100/nodejs.png" alt="nodejs"/>
 <img width="40" height="40" align="left" src="https://img.icons8.com/ios/100/express-js.png" alt="express-js"/>
 <img width="40" height="40" align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/100/nextjs.png" alt="nextjs"/>
-<img width="50" height="50" src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/100/mysql-logo.png" alt="mysql-logo"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/100/nextjs.png" alt="nextjs"/>
+<img width="40" height="40" src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="40" height="40" src="https://img.icons8.com/color/100/mysql-logo.png" alt="mysql-logo"/>
 
 
 
