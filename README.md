@@ -2,7 +2,7 @@
 # Hi there,I'm Milton👋
 
 ## About Me
-<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif" width="100" height="200">
+<img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745809692/download_yg9ejz.gif" width="100" height="300">
 
 A developer who enjoys writing clean, efficient code and occasionally talking to rubber ducks for debugging help 🐤.
 I specialize in building user-friendly applications and constantly aim to improve both my technical skills and the impact of my work.
