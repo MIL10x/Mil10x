@@ -56,6 +56,15 @@ I specialize in building user-friendly applications and constantly aim to improv
 - ArtStation : https://www.artstation.com/milton_vinciline_v
 - Itch.io : https://milton-vinciline-v.itch.io/
 
+</br>
+
+## 📈Git Monitor
+
+</br>
+
+
+![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mil10x&show_icons=true&theme=radical)
+
 
 </br>
 
