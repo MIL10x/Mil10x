@@ -28,33 +28,40 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 ## Tools I Use
 
+</br>
+
 <img width="40" height="40" src="https://img.icons8.com/color/100/figma--v1.png" alt="figma--v1"/>  <img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/adobe-photoshop.png" alt="adobe-photoshop"/>  <img width="40" height="40" src="https://img.icons8.com/bubbles/100/blender-3d.png" alt="blender-3d"/>  <img width="40" height="40" src="https://img.icons8.com/color/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 
 ## WorkSpace Spec
 <img width="200" height="40" src="https://img.shields.io/badge/AMD-Ryzen_7_7700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="figma--v1"/>    <img width="200" height="40" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="figma--v1"/>  <img width="200" height="40" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="figma--v1"/>
 
+</br>
+
 ## 💡Live projects
+
+</br>
+
 - CineInfo : https://cineinfoz.netlify.app/
-
-
-
 - Ecommerce : https://codebook-ecommerece-platform.netlify.app/
-
-
-
 - Flower 3d : https://experimental-website-3d.vercel.app/
 
+
+</br>
+
 ## 💻Portfolio
+
+</br>
+
 - Behance : https://www.behance.net/20mss025mlton
-
-
-
 - ArtStation : https://www.artstation.com/milton_vinciline_v
-
-
-
 - Itch.io : https://milton-vinciline-v.itch.io/
 
+
+</br>
+
 ## 📈Git Monitor
+
+</br>
+
 
 [![Mil10's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mil10x&bg_color=000000&color=ffffff&line=1c61ba&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
