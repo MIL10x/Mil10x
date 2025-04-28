@@ -18,7 +18,7 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 </br>
 
-## Tech Stack
+## Code I Use
 
 </br>
 
