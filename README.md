@@ -13,9 +13,10 @@ I specialize in building user-friendly applications and constantly aim to improv
 
 - ☕ Always up for tech talk, coffee, or both
 
-- 🎨 Working on 3d web application development
-- 
 <img src="https://res.cloudinary.com/dl3lloezx/image/upload/v1745823787/img01_ogkzxc.png"  align="right" width="150" height="150">
+
+- 🎨 Working on 3d web application development
+  
 
 - 👯 I’m looking to collaborate on MERN Web Application
 
