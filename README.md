@@ -1,4 +1,4 @@
-  ![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745792281/git_banner_qf1kfp.jpg)
+  ![mil10s banner](https://res.cloudinary.com/dl3lloezx/image/upload/v1745989293/fchange_e5qucl.jpg)
 # Hi there,I'm Milton👋
 
 ## About Me
