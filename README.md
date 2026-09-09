@@ -44,27 +44,6 @@ Python                  ███████████░░░░░░░  
 I believe becoming a better developer isn't about knowing every technology —
 it's about **understanding fundamentals and knowing how to solve problems.**
 
----
-
-## 🔨 Things I've Built
-
-### 🤖 AI Size Recommendation
-
-An AI-powered recommendation experience that uses a child's **height and weight** to suggest an appropriate clothing size.
-
-### 🛒 E-Commerce Platform
-
-A full-stack e-commerce application with product management, authentication, shopping cart, and order functionality.
-
-### 🎬 CineInfo
-
-A movie-focused web application for exploring and discovering movies.
-
-### 🌐 3D Web Experience
-
-An experimental interactive website exploring **3D experiences on the web**.
-
----
 
 ## 🎨 Beyond Code
 
