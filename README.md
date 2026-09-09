@@ -75,14 +75,6 @@ it's also about making the experience **feel right**.
 
 ---
 
-## 📊 GitHub
-
-![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mil10x\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Milton's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Mil10x\&theme=github-compact\&hide_border=true)
-
----
-
 ### ⚡ A little about me
 
 ```javascript
